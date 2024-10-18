@@ -30,7 +30,7 @@ A simple Windows Forms application developed using C# to provide weather forecas
 - **Foreca API** for fetching weather data.
 - other location and city api's
 ## Screenshots
-(Include some screenshots of the app here)
+Go to screenshots folder to see how the app works in real examples.
 
 ## Setup and Installation
 1. Clone the repository:
