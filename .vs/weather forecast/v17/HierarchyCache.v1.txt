@@ -1,0 +1,312 @@
+﻿++Solution 'weather forecast' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:weather forecast.sln
+++weather forecast
+i:{00000000-0000-0000-0000-000000000000}:weather forecast
+++Properties
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\
+++References
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Resources
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\
+++icons8_back_32px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_back_32px_1.png
+++icons8_back_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_back_64px.png
+++icons8_back_arrow_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_back_arrow_64px.png
+++icons8_back_to_64px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_back_to_64px_1.png
+++icons8_back_to_64px_2.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_back_to_64px_2.png
+++icons8_back_to_64px_4.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_back_to_64px_4.png
+++icons8_below_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_below_64px.png
+++icons8_Close_64px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_close_64px_1.png
+++icons8_Close_64px_3.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_close_64px_3.png
+++icons8_Close_64px_4.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_close_64px_4.png
+++icons8_google_maps_old_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_google_maps_old_32px.png
+++icons8_google_maps_old_32px1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_google_maps_old_32px1.png
+++icons8_home_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_home_32px.png
+++icons8_home_32px1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_home_32px1.png
+++icons8_home_32px2.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_home_32px2.png
+++icons8_home_32px3.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_home_32px3.png
+++icons8_Location_32px_4.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_location_32px_4.png
+++icons8_location_32px_6.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_location_32px_6.png
+++icons8_Location_40px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_location_40px.png
+++icons8_Location_40px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_location_40px_1.png
+++icons8_maximize_button_26px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_maximize_button_26px.png
+++icons8_menu_32px_2.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_menu_32px_2.png
+++icons8_menu_32px_21.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_menu_32px_21.png
+++icons8_menu_rounded_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_menu_rounded_32px.png
+++icons8_menu_rounded_32px1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_menu_rounded_32px1.png
+++icons8_multiply_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_multiply_32px.png
+++icons8_rewind_button_round_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_rewind_button_round_64px.png
+++icons8_search_16px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_16px.png
+++icons8_search_24px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_24px.png
+++icons8_search_26px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_26px.png
+++icons8_search_26px1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_26px1.png
+++icons8_search_26px2.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_26px2.png
+++icons8_search_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_32px.png
+++icons8_search_32px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_32px_1.png
+++icons8_search_32px_11.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_32px_11.png
+++icons8_search_48px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_48px.png
+++icons8_search_64px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_64px_1.png
+++icons8_search_64px_2.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_64px_2.png
+++icons8_search_64px_4.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_64px_4.png
+++icons8_search_more_64px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_search_more_64px_1.png
+++icons8_speed_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_speed_64px.png
+++icons8_subtract_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_subtract_32px.png
+++icons8_sun_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_sun_32px.png
+++icons8_sun_32px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_sun_32px_1.png
+++icons8_sun_32px_11.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_sun_32px_11.png
+++icons8_sunrise_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_sunrise_32px.png
+++icons8_sunset_32px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_sunset_32px_1.png
+++icons8_view_details_32px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_view_details_32px.png
+++icons8_weather_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_weather_64px.png
+++icons8_weather_64px_1.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_weather_64px_1.png
+++icons8_wind_50px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_wind_50px.png
+++icons8_wind_turbine_64px.png
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\resources\icons8_wind_turbine_64px.png
+++App.config
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\app.config
+++city.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\city.cs
+++citydata.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\citydata.cs
+++cityid.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\cityid.cs
+++details.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\details.cs
+++expetion.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\expetion.cs
+++forecastforeca.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\forecastforeca.cs
+++Form1.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\form1.cs
+++Form2.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\form2.cs
+++map.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\map.cs
+++mylocation.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\mylocation.cs
+++packages.config
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\packages.config
+++Program.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\program.cs
+++weatherapp.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\weatherapp.cs
+++weathercurrent.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\weathercurrent.cs
+++AssemblyInfo.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\assemblyinfo.cs
+++licenses.licx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\licenses.licx
+++Resources.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\resources.resx
+++Settings.settings
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\settings.settings
+++Bunifu.Core
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.Licensing
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuButton
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuCircleProgress
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuDataGridView
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuGauge
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuImageButton
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuPictureBox
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu.UI.WinForms.BunifuTextbox
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu_UI_v1.5.3
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Bunifu_UI_v1.52
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.CSharp
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.Configuration
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.Configuration.Abstractions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.Configuration.FileExtensions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.Configuration.Json
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.FileProviders.Abstractions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.FileProviders.Physical
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.FileSystemGlobbing
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.Logging.Abstractions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Microsoft.Extensions.Primitives
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++Newtonsoft.Json
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Buffers
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.ComponentModel.Composition
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Configuration
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Configuration.ConfigurationManager
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Core
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Data
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Data.DataSetExtensions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Data.OracleClient
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Deployment
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Design
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Drawing
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.IO
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Management
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Memory
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Net
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Net.Http
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Net.Http.Extensions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Net.Http.Primitives
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Net.Http.WebRequest
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Numerics
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Numerics.Vectors
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Runtime
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Runtime.CompilerServices.Unsafe
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.AccessControl
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.Cryptography.Algorithms
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.Cryptography.Encoding
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.Cryptography.Primitives
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.Cryptography.X509Certificates
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.Permissions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Security.Principal.Windows
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.ServiceProcess
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Text.Encodings.Web
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Text.Json
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Threading.Tasks.Extensions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Transactions
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.ValueTuple
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Web
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Windows.Forms
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Xml
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++System.Xml.Linq
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++WindowsBase
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:
+++citydata.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\citydata.designer.cs
+++citydata.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\citydata.resx
+++details.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\details.designer.cs
+++details.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\details.resx
+++expetion.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\expetion.designer.cs
+++expetion.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\expetion.resx
+++Form1.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\form1.designer.cs
+++Form1.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\form1.resx
+++Form2.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\form2.designer.cs
+++Form2.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\form2.resx
+++map.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\map.designer.cs
+++map.resx
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\map.resx
+++Resources.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{206736d6-e83a-4fd5-b11a-d4e4d96e4d4a}:c:\users\techshop\desktop\project info\weather forecast\weather forecast\weather forecast\properties\settings.designer.cs
