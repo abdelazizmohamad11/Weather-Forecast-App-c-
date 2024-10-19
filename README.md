@@ -2,9 +2,9 @@
 
 A simple Windows Forms application developed using C# to provide weather forecasts for various cities using the Foreca API.
 ## Project Overview
--Created by: Abdelaziz Mohamad
--Date of Completion: Mai 2022
--Project Type: Windows Forms Application (C# and API Integration)
+- Created by: Abdelaziz Mohamad
+- Date of Completion: Mai 2022
+- Project Type: Windows Forms Application (C# and API Integration)
 
 ## Features
 - Search weather by city (e.g., Saint-Étienne, Paris, Beirut, etc.).
